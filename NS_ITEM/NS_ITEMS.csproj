@@ -6,7 +6,6 @@
 
   <ItemGroup>
     <Folder Include="Items\Consumables\" />
-    <Folder Include="Items\Equipments\Tools\Types\" />
     <Folder Include="Items\Equipments\Weapons\Types\" />
   </ItemGroup>
 
